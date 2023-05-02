@@ -61,6 +61,8 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+!/Execute files/SlingShot.apk
+
 # Crashlytics generated file
 crashlytics-build.properties
 
